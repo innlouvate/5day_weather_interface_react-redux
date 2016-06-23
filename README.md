@@ -1,25 +1,11 @@
-# ReduxSimpleStarter
+# 5 day weather forecast display
+Small app combining React and Redux. User enters a city to add to the list of those displaying a location map and 5 day weather forecast graphs for temperature, pressure and humidity. 
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
+####Run#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+	> git clone https://github.com/innlouvate/5day_weather_interface_react-redux.git
+	> cd 5day_weather_interface_react-redux
 	> npm install
 	> npm start
 ```
